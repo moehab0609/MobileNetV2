@@ -1,8 +1,8 @@
-**🚀 MobileNetV2 Image Classification**
+> **🚀 MobileNetV2 Image Classification**
 
 This project implements an image classification model using MobileNetV2 with transfer learning. The model leverages pre-trained weights to achieve high accuracy while maintaining computational efficiency, making it suitable for real-time and resource-constrained applications.
 
-**🔑 Features**
+> **🔑 Features**
 
 -Transfer learning with MobileNetV2 (ImageNet pre-trained)
 
@@ -13,8 +13,8 @@ This project implements an image classification model using MobileNetV2 with tra
 -Training and validation performance visualization
 
 -Overfitting analysis using loss and accuracy curves
-
-**🧠 Model**
+> 
+> **🧠 Model**
 
 -Base Model: MobileNetV2
 
